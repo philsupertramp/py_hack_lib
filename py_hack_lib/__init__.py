@@ -1,4 +1,5 @@
 import urllib.request
+from .wp_exploit_4_9_1 import execute
 
 
 def get_company_icon(url):
